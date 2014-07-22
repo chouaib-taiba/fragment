@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">fragment</string>
+    <string name="hello_world">1er fragment</string>
+    <string name="action_settings">Settings</string>
+    <string name="fragment2">2eme fragment</string>
+    <string-array name="exemple_liste">
+        <item >France</item>
+        <item >Espagne</item>
+        <item >Italie</item>
+        <item >Allemagne</item>
+    </string-array>
+    <string-array name="exemple_liste2">
+        <item >Algerie</item>
+        <item >Maroc</item>
+        <item >Tunisie</item>
+        <item >Egypte</item>
+    </string-array>
+
+</resources>
